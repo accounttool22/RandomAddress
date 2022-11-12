@@ -1,1 +1,14 @@
-{}
+{  
+  "TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": "",
+      "required": true
+    },
+    "OWNER": {
+      "description": "Owner user_id.",
+      "value": "",
+      "required": true
+   
+      }
+  }
+}
